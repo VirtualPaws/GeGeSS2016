@@ -12,3 +12,5 @@ gege_myo_particleworld.html
 #gege_demo_particleworld.html 
 - kann ohne myo ausgeführt werden
 - dem Lehrzeichen kann die Farbe des spielers verändert werden
+
+![Screenshot](https://github.com/kkonkol/GeGeSS2016/blob/master/gege_1.PNG)
